@@ -1,3 +1,6 @@
 class Person
-  attr_accessor: 
+  attr_accessor :name, :job
+  
+  def name
+end
 end
